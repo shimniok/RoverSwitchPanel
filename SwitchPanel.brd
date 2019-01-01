@@ -532,7 +532,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="S1" library="bt_electromech" package="12MMTACTILE_4PIN" value="" x="15.24" y="7.62"/>
 <element name="S2" library="bt_electromech" package="12MMTACTILE_4PIN" value="" x="50.8" y="7.62"/>
 <element name="S3" library="bt_electromech" package="12MMTACTILE_4PIN" value="" x="86.36" y="7.62"/>
-<element name="U$4" library="bt" package="BTLOGOM" value="" x="33.02" y="5.08"/>
+<element name="U$4" library="bt" package="BTLOGOM" value="" x="33.02" y="5.08" rot="MR0"/>
 </elements>
 <signals>
 <signal name="N$2">
